@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Chompis\\source\\repos\\Practica\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59C1F744-EC73-4E35-AB1A-AA6C6BDA7CB4}|Practica\\Practica\\Practica.csproj|c:\\users\\chompis\\source\\repos\\practica\\practica\\practica\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59C1F744-EC73-4E35-AB1A-AA6C6BDA7CB4}|Practica\\Practica\\Practica.csproj|solutionrelative:practica\\practica\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59C1F744-EC73-4E35-AB1A-AA6C6BDA7CB4}|Practica\\Practica\\Practica.csproj|c:\\users\\chompis\\source\\repos\\practica\\practica\\practica\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59C1F744-EC73-4E35-AB1A-AA6C6BDA7CB4}|Practica\\Practica\\Practica.csproj|solutionrelative:practica\\practica\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59C1F744-EC73-4E35-AB1A-AA6C6BDA7CB4}|Practica\\Practica\\Practica.csproj|c:\\users\\chompis\\source\\repos\\practica\\practica\\practica\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59C1F744-EC73-4E35-AB1A-AA6C6BDA7CB4}|Practica\\Practica\\Practica.csproj|solutionrelative:practica\\practica\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\Users\\Chompis\\source\\repos\\Practica\\Practica\\Practica\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "Practica\\Practica\\Components\\Pages\\Weather.razor",
+              "ToolTip": "C:\\Users\\Chompis\\source\\repos\\Practica\\Practica\\Practica\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "Practica\\Practica\\Components\\Pages\\Weather.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T20:40:15.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Error.razor",
+              "DocumentMoniker": "C:\\Users\\Chompis\\source\\repos\\Practica\\Practica\\Practica\\Components\\Pages\\Error.razor",
+              "RelativeDocumentMoniker": "Practica\\Practica\\Components\\Pages\\Error.razor",
+              "ToolTip": "C:\\Users\\Chompis\\source\\repos\\Practica\\Practica\\Practica\\Components\\Pages\\Error.razor",
+              "RelativeToolTip": "Practica\\Practica\\Components\\Pages\\Error.razor",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T20:40:12.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Chompis\\source\\repos\\Practica\\Practica\\Practica\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Practica\\Practica\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Chompis\\source\\repos\\Practica\\Practica\\Practica\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Practica\\Practica\\Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T20:32:15.356Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
